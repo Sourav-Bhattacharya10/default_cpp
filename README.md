@@ -23,3 +23,6 @@ C:\ProgramData\mingw64\mingw64\bin\gdb.exe
 
 6. To compile the code:
 g++ .\main.cpp -o .\main.exe
+
+
+It contains configuration file for debugging C++. Just set a breakpoint and start debug. That's it.
